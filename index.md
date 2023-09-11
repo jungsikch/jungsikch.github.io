@@ -4,7 +4,7 @@ title: Jungsik Choi
 ---
 
 # Jungsik Choi
-I am a staff researcher at the Samsung Advanced Institute of Technology (SAIT),
+I am a Staff Researcher at the [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr/),
 Samsung's R&D hub that incubates cutting-edge technologies.
 As a member of the Green Supercomputer Project (GSP) & System Semicondoctor T/F at SAIT,
 I focus on developing system software and architectural features
