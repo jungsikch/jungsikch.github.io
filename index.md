@@ -18,4 +18,4 @@ a national research institute,
 and [Sungkyunkwan University (SKKU)](https://www.skku.edu).
 I also received my Ph.D. in Computer Engineering from SKKU in 2019.
 
-{% include publications.md %}
+{% include publications.html %}
