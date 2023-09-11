@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # Jungsik Choi
 I am a staff researcher at the Samsung Advanced Institute of Technology (SAIT),
 Samsung's R&D hub that incubates cutting-edge technologies.
