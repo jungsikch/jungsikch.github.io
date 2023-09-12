@@ -17,6 +17,7 @@ I was a Postdoctoral Researcher at the [Electronics and Telecommunications Resea
 a national research institute,
 and [Sungkyunkwan University (SKKU)](https://www.skku.edu).
 I also received my Ph.D. in Computer Engineering from SKKU in 2019.
+If you want know more about me, [you can Google me](https://g.co/kgs/EHZ8Rq).
 
 ## Publications
 {% include publications.md %}
