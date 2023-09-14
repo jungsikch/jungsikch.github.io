@@ -3,7 +3,13 @@ layout: default
 title: Jungsik Choi
 ---
 
-# Jungsik Choi
+# Jungsik Choi, Ph.D.
+* Staff Researcher
+* Samsung Advanced Institute of Technology (SAIT)
+* Samsung Electronics
+* jungsik.choi@samsung.com
+
+# Biography
 I am a Staff Researcher at the [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr/),
 Samsung's R&D hub that incubates cutting-edge technologies.
 By combining insights from computer architecture, operaint systems, and compilers,
