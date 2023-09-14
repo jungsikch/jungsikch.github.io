@@ -9,7 +9,6 @@ title: Jungsik Choi
 * Samsung Electronics
 * jungsik.choi@samsung.com
 
-# Biography
 I am a Staff Researcher at the [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr/),
 Samsung's R&D hub that incubates cutting-edge technologies.
 By combining insights from computer architecture, operaint systems, and compilers,
@@ -28,6 +27,3 @@ for the upcoming high performance computing environment.-->
 <!--Currently, I am designing and implementing runtime and operating systems
 to efficiently manage large amounts of data on emerging devices
 such as CXL memory, PIMs, NPUs, and GPUs.-->
-
-## Publications
-{% include publications.md %}
