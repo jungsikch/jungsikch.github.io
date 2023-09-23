@@ -3,6 +3,9 @@ layout: default
 title: Jungsik Choi
 ---
 
+![Profile](../)
+
+
 # Jungsik Choi, Ph.D.
 * Staff Researcher
 * Samsung Advanced Institute of Technology (SAIT)
