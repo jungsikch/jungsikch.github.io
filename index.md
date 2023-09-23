@@ -3,7 +3,7 @@ layout: default
 title: Jungsik Choi
 ---
 
-![Profile](../)
+![Profile](./assets/images/profile.jpg)
 
 
 # Jungsik Choi, Ph.D.
