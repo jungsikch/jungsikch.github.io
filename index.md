@@ -3,7 +3,7 @@ layout: default
 title: Jungsik Choi
 ---
 
-![Profile](./assets/images/profile.jpg|width=10)
+![Profile|width=10](./assets/images/profile.jpg)
 
 
 # Jungsik Choi, Ph.D.
